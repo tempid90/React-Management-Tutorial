@@ -1,7 +1,6 @@
 import './App.css';
 import Customer from './components/Customer';
-import { Table } from '@material-ui/core';
-import { TableHead, TableBody, TableRow, TableCell, withStyles, Paper } from '@material-ui/core';
+import { Table, TableHead, TableBody, TableRow, TableCell, withStyles, Paper } from '@material-ui/core';
 import { Component } from 'react';
 
 const styles = theme => ({
