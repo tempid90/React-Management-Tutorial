@@ -30,7 +30,7 @@ const customers = [
     'name': '김이름',
     'birthday': '960211',
     'gender': '여자',
-    'job': '회사원'
+    'job': '회계사'
   },
   {
       'no': '3',
@@ -39,7 +39,15 @@ const customers = [
       'birthday': '810404',
       'gender': '남자',
       'job': '프로그래머'
-  }
+  },
+  {
+    'no': '4',
+    'image': 'https://placeimg.com/64/64/3',
+    'name': '박길동',
+    'birthday': '750404',
+    'gender': '남자',
+    'job': '광부'
+}
 ]
 
 class App extends Component {  
