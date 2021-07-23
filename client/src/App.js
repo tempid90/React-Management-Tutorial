@@ -70,7 +70,7 @@ class App extends Component {
                   <CircularProgress className={classes.progress} variant="indeterminate" value={this.state.completed}/>
                 </TableCell>
               </TableRow>
-              }
+            }             
           </TableBody>
         </Table>
       </Paper>
